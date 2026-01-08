@@ -1,4 +1,4 @@
-## Olá, Mundo! Eu sou Letícia Silva Pedroso
+## Olá, Mundo! Eu sou a Letícia Silva Pedroso
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,python,php" width="250" />
