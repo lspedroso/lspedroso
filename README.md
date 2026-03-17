@@ -1,7 +1,7 @@
 ## Olá, Mundo! Eu sou a Letícia Silva Pedroso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,python,php" width="250" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,python,php,react" width="250" />
 </p>
 
 
