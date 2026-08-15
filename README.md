@@ -6,7 +6,7 @@
 
 
 <p align="left">
-  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
+  <a href="[https://www.youtube.com/@SEU_CANAL](https://www.youtube.com/@l.spedroso)" target="_blank">
     <img src="" />
   </a>
   <a href="https://www.instagram.com/l.spedroso" target="_blank">
