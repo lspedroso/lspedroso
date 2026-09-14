@@ -6,9 +6,6 @@
 
 
 <p align="left">
-  <a href="https://www.instagram.com/l.spedroso" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/letícia-silva-pedroso-84672a391/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
